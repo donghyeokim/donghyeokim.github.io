@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: [공유] JavaScript 개인 정리
@@ -6,6 +7,7 @@ date: 2021-02-08 13:35:20 +0200
 tags: NHN 기술교육 공유
 categories: 공유
 ---
+
 <h4> 1. 2주차 요약</h4>
 - 월요일 : 기획서 발표, Git & Github 기초 <br>
 - 화요일 : Vi 교육, HTML/CSS 교육 <br>
