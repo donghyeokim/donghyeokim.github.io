@@ -6,6 +6,7 @@ date: 2021-02-08 13:35:20 +0200
 tags: NHN 기술교육
 categories: NHN신입교육 2주차 소감문
 ---
+
 <h4> 1. 2주차 요약</h4>
 - 월요일 : 기획서 발표, Git & Github 기초 <br>
 - 화요일 : Vi 교육, HTML/CSS 교육 <br>
