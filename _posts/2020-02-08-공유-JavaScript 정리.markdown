@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: [공유] JavaScript 개인 정리
+title: 공유 JavaScript 개인 정리
 image: 5.jpg
 date: 2021-02-08 13:35:20 +0200
 tags: NHN 기술교육 공유
