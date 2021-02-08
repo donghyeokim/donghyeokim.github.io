@@ -1,10 +1,10 @@
 ---
 layout: post
-title: NHN 입문교육 1주차 소감
-image: 8.jpg
+title: [공유] JavaScript 내용 정리
+image: 3.jpg
 date: 2021-01-21 13:35:20 +0200
-tags: 개발, NHN
-categories: NHN신입교육 1주차 소감문
+tags: 공유, NHN
+categories: NHN신입교육 공유
 ---
 <h5>
 첫 시작, 다 잘해보겠다라는 마음가짐으로 호기롭게 교육에 임했지만 기본 베이스가 많이 없어 따라가기 급급한 느낌이다...<br>
