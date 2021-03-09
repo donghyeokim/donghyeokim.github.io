@@ -4,7 +4,7 @@ title: NHN 입문교육 Sprint6,7 소감
 image: 6.jpg
 date: 2021-03-09 19:12:20 +0200
 tags: NHN 기술교육
-categories: NHN신입교육
+categories: NHN기술교육
 ---
 <h2>1. Sprint6 회고 </h2>
 ---
