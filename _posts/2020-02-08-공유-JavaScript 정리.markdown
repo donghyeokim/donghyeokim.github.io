@@ -4,7 +4,7 @@ title: (공유) JavaScript 생소한 용어 정리
 image: 3.jpg
 date: 2021-01-21 13:35:20 +0200
 tags: 공유, NHN
-categories: NHN신입교육 공유
+categories: NHN기술교육
 ---
 
 ## 함수 표현식의 장점
