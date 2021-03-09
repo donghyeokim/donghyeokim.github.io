@@ -26,4 +26,9 @@ categories: 개인학습
 ![image](https://user-images.githubusercontent.com/38030969/110410665-9a93e700-80cc-11eb-8c53-30bce3a68e69.png)
 - 객체의 상태에 따라 각각의 행위를 변경할 수 있게 캡슐화한다.
 - 동적으로 행동을 교체한다는 점에서 전략패턴과 구조는 거의 동일하나 쓰임의 용도가 다름.
+- 컨텍스트의 상태 변경을 상태 객체에게 위임할수도 있고 컨텍스트가 직접 하기도 함. (장단점이 있어 상황에 맞게)
+<br><br>
+<h3>4. Decorator Pattern </h3>
+![image](https://user-images.githubusercontent.com/38030969/110421497-f9635b80-80e0-11eb-9537-4156d8aa111a.png)
+- 주어진 상황 ㄴㅁㅇㅁㄴ이ㅏㅁ니아ㅣㅁ나임ㄴ
 <br><br>
