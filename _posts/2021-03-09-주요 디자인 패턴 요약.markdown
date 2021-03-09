@@ -1,0 +1,12 @@
+---
+layout: post
+title: 주요 디자인 패턴 용약
+image: 3.jpg
+date: 2021-03-09 18:40:20 +0200
+tags: NHN 기술교육 디자인패턴
+categories: 개인학습
+---
+<h4>1. Stratgy Pattern </h4>
+![image](https://user-images.githubusercontent.com/38030969/110408520-083e1400-80c9-11eb-991f-ebfc61f170e4.png)
+- 특정 컨텍스트에서 알고리즘(전략)을 별도로 분리하는 설계 방법.
+<br>
