@@ -1,10 +1,10 @@
 ---
 layout: post
-title: NHN 입문교육 2주차 소감
+title: NHN 입문교육 Sprint2 소감
 image: 6.jpg
 date: 2021-02-08 13:35:20 +0200
 tags: NHN 기술교육
-categories: NHN신입교육 2주차 소감문
+categories: NHN기술교육
 ---
 <h4> 1. 2주차 요약</h4>
 - 월요일 : 기획서 발표, Git & Github 기초 <br>
