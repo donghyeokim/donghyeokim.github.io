@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 주요 디자인 패턴 약
+title: 주요 디자인 패턴 요약
 image: 4.jpg
 date: 2021-03-09 18:40:20 +0200
 tags: NHN 기술교육 디자인패턴
