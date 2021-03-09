@@ -38,5 +38,6 @@ categories: 개인학습
 <br><br>
 <h3>5. Proxy Pattern </h3>
 ![image](https://user-images.githubusercontent.com/38030969/110423218-003f9d80-80e4-11eb-9f2d-614ce5e3b0cd.png)
-- 대리자로써 
+- 대리자로써 일을 맡기면 그 일을 처리하고 완료되면 그 결과를 알려주는 패턴
+- 
 <br><br>
