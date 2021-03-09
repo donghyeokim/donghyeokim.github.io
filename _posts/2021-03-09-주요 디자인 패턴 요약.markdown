@@ -22,3 +22,8 @@ categories: 개인학습
 2. 가상함수, 일반함수 선언에 대한 결정이 필요. (반드시 구현이 필요한 메서드는 가상함수, 필요한 경우에만 구현하는 경우 일반)
 3. Virtual의 수를 줄이는 것이 필요. (virtual table 확장에 따른 성능 문제 발생)
 <br><br>
+<h3>3. State Pattern </h3>
+![image](https://user-images.githubusercontent.com/38030969/110410665-9a93e700-80cc-11eb-8c53-30bce3a68e69.png)
+- 객체의 상태에 따라 각각의 행위를 변경할 수 있게 캡슐화한다.
+- 동적으로 행동을 교체한다는 점에서 전략패턴과 구조는 거의 동일하나 쓰임의 용도가 다름.
+<br><br>
