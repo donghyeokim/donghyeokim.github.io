@@ -4,7 +4,7 @@ title: NHN 입문교육 Sprint4,5 소감
 image: 2.jpg
 date: 2021-02-21 22:40:20 +0200
 tags: NHN 기술교육
-categories: NHN신입교육 Sprint4,5 소감문
+categories: NHN기술교육
 ---
 <h4>1. Sprint4 회고 </h4>
 - 설 연휴가 끼어있어 기분은 좋았지만 계속 프로젝트 구현을 해야만했다 ㅎㅎ
